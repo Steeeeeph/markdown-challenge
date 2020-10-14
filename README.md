@@ -2,14 +2,12 @@
 
 *"Remember that when it's raining, most of the rain falls beside you."*
 
-![alt text](https://photos.app.goo.gl/173jytzSaAJWrqJ8A "Picture of Stephanie Van Bockhaven")
-
 ![alt text](SVB.jpg  "Picture of Stephanie Van Bockhaven")
 
 ### "Multipontentionalist at heart"
 Birthday | Favorite color | Favorite food | Pineapple on pizza
 --- | --- | --- | ---
-18/08/1988 | Depends on the moment | Mediteranean | &#9746; [x] Yes &#9744; [] No
+18/08/1988 | Depends on the moment | Mediteranean | &#9746; -[x] Yes &#9744; -[] No
 
 
 ### Hobbies
@@ -31,4 +29,4 @@ When I was 11, my sisters and some of my brothers have passed the age of 18. So 
 
 #### TL;DR
 I learnt driving a car at age 11, because my dad was so traumatized by the fact my sisters had to do their driving exams a couple of times over.# markdown-challenge
-# markdown-challenge
+
