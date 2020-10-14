@@ -28,5 +28,5 @@ Birthday | Favorite color | Favorite food | Pineapple on pizza
 When I was 11, my sisters and some of my brothers have passed the age of 18. So they had to take exams to get their drivers license. All of them so far had failed the first time of the practical part, costing my parents a lot of money. My dad was so fed up with this, he started teaching me and my youngest brother to drive the car. We learnt it on a big meadow behind our home. I could brag to all of my friends that I already knew how to drive and also I was the only one of all of my siblings to pass the exam from the first time on.
 
 #### TL;DR
-I learnt driving a car at age 11, because my dad was so traumatized by the fact my sisters had to do their driving exams a couple of times over.# markdown-challenge
+I learnt driving a car at age 11, because my dad was so traumatized by the fact my sisters had to do their driving exams a couple of times over.
 
